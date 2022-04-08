@@ -1,0 +1,22 @@
+[
+    {
+        "name":1,
+        "size":"XS",
+        "color":"Brown"
+    },
+    {
+        "name":2,
+        "size":"36",
+        "color":"Brown"
+    },
+    {
+        "name":3,
+        "size":"M",
+        "color":"Red"
+    },
+    {
+        "name":"Apollo Running Short",
+        "size":"36",
+        "color":"Black"
+    }
+]
